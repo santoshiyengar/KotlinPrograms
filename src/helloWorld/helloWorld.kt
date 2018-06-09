@@ -5,3 +5,8 @@ fun getHelloString() : String {
 fun main(args : Array<String>) {
     println(getHelloString())
 }
+
+//fun main(args : Array<String>){
+//    println("Hello, World")
+    
+//}
